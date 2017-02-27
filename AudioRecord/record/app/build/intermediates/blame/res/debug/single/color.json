@@ -36,6 +36,10 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },

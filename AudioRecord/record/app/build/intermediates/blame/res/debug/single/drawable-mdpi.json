@@ -16,6 +16,10 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_solid_light_holo.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_solid_light_holo.9.png"
     },
@@ -24,12 +28,16 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_go_search_api_holo_light.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_right_default_holo_light.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_light.9.png"
     },
     {
-        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_ab_back_holo_light.png",
-        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_light.png"
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_top_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_share_pack_holo_light.9.png",
@@ -40,12 +48,32 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_stacked_transparent_light_holo.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_light_holo.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_top_holo_light.9.png",
@@ -54,6 +82,22 @@
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_search_api_holo_light.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_solid_light_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_cab_done_holo_light.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_selected_focused_holo.9.png",
@@ -76,8 +120,16 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_go.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_go.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_unselected_pressed_holo.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_go.png",
@@ -104,8 +156,32 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_go_search_api_holo_light.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_hardkey_panel_holo_light.9.png",
@@ -116,8 +192,20 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_dark.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_menu_share_holo_light.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_ab_back_holo_dark.png",
@@ -144,6 +232,10 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_hardkey_panel_holo_dark.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
     },
@@ -156,12 +248,28 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_clear_normal.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_clear_normal.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_cab_done_holo_dark.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_dark.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_search.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
@@ -200,6 +308,14 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_cab_done_holo_dark.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_disabled_holo_light.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_light.9.png"
     },
@@ -224,6 +340,10 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_clear_search_api_holo_light.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_holo_light.png"
     },
@@ -234,6 +354,34 @@
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_voice_search_api_holo_light.png",
@@ -248,12 +396,24 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_dark_holo.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_share_pack_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_clear_disabled.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_clear_disabled.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_transparent_dark_holo.9.png",
@@ -272,8 +432,16 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_clear_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_search_api_holo_light.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_selected_holo_dark.9.png",
@@ -288,20 +456,40 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_default_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_voice_search.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_selected_holo_light.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_light.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_divider_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_bottom_holo_light.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_light.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_longpressed_holo.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_light_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_pressed_holo_dark.9.png",
@@ -312,6 +500,10 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_search.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_search.png"
     },
@@ -320,12 +512,24 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_divider_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_share_holo_dark.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_tab_selected_pressed_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_popup_background_mtrl_mult.9.png",
@@ -344,8 +548,24 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_right_selected_holo_light.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_dark.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_dropdown_panel_holo_light.9.png",
@@ -364,8 +584,32 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_bottom_holo_dark.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_voice_search.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_solid_dark_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_solid_dark_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_search_api_mtrl_alpha.png",
@@ -376,12 +620,36 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_top_holo_dark.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_list_focused_holo.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_voice_search_api_holo_light.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ab_stacked_transparent_light_holo.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_switch_track_mtrl_alpha.9.png",
@@ -392,8 +660,24 @@
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_list_divider_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_selected_holo.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_tab_selected_holo.9.png",
         "source": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_cab_background_top_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_textfield_search_default_holo_light.9.png",
+        "source": "C:\\Users\\Bobby\\Documents\\GitHub\\Sphone\\AudioRecord\\record\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-mdpi\\abc_textfield_search_default_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Bobby\\Documents\\GitHub\\record\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_spinner_ab_focused_holo_dark.9.png",

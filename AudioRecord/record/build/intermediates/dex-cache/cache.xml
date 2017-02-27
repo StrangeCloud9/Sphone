@@ -37,5 +37,32 @@
         sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
         <dex dex="C:\Users\Bobby\Documents\GitHub\record\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-20.0.0_07d37cf35d9efca06f77d6952d568991cdf97f50.jar" />
     </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bobby\Documents\GitHub\Sphone\AudioRecord\record\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Bobby\Documents\GitHub\Sphone\AudioRecord\record\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_11560705c3238265e131b9f7fd8733d5ac0a5417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bobby\Documents\GitHub\Sphone\AudioRecord\record\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Bobby\Documents\GitHub\Sphone\AudioRecord\record\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-20.0.0_9c18f2b03414d08b743492b138683894462e9b8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Bobby\Documents\GitHub\Sphone\AudioRecord\record\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Bobby\Documents\GitHub\Sphone\AudioRecord\record\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_79c5ca1e3e39d472a18daa3bae8f8ed4a777e0af.jar" />
+    </item>
 
 </items>

@@ -10,6 +10,7 @@ import java.util.List;
 
 import android.media.AudioFormat;
 import android.media.AudioRecord;
+import android.media.MediaPlayer;
 import android.media.MediaRecorder;
 import android.os.Bundle;
 import android.os.Environment;
@@ -36,9 +37,10 @@ private AudioRecord audioRecord = null;
 private int recBufSize = 0;
 private Thread recordingThread = null;
 private boolean isRecording = false;
-private Button start1,stop1;
+private Button start1,stop1,play;
 private TextView txt;
-private String ChosenFile;
+private String ChosenFile,filePath;
+private MediaPlayer mp;
     private List<String> items =new ArrayList<String>();  ;
     ArrayAdapter<String> adapter;
 @Override
@@ -49,8 +51,13 @@ protected void onCreate(Bundle savedInstanceState)
 		start1=(Button)findViewById(R.id.start);
 		stop1=(Button)findViewById(R.id.stop);
 		txt=(TextView)findViewById(R.id.textView1);
+        play = (Button)findViewById(R.id.play);
+    mp = new MediaPlayer();
+
+
+
     ChosenFile = "none";
-txt.setText(ChosenFile);
+    txt.setText(ChosenFile);
 
     RuntimePermissionsManager runtimePermissionsManager= new RuntimePermissionsManager(MainActivity.this);
     runtimePermissionsManager.requestPermission("android.permission.READ_EXTERNAL_STORAGE");
@@ -62,8 +69,9 @@ txt.setText(ChosenFile);
         Log.e("onCreate","no permission");
     }
 
-    String filePath = Environment.getExternalStorageDirectory().getAbsolutePath();
+     filePath = Environment.getExternalStorageDirectory().getAbsolutePath();
     filePath = filePath+"/AudioRecorder2";
+
     Log.e("onCreate file path is",filePath);
     File folder = new File(filePath);
     String[] fileNames = folder.list();
@@ -93,6 +101,20 @@ txt.setText(ChosenFile);
             Toast.makeText(MainActivity.this,items.get(position), Toast.LENGTH_SHORT).show();
             ChosenFile = items.get(position);
             txt.setText(ChosenFile);
+            try {
+                Log.e("mp.setDataSource ",filePath+"/"+ChosenFile);
+                mp.setDataSource(filePath+"/"+ChosenFile);
+                Log.e("now prepare  ",filePath+"/"+ChosenFile);
+                mp.prepare();
+            }catch (IOException e) {
+                e.printStackTrace();
+            }
+            mp.setOnCompletionListener(new MediaPlayer.OnCompletionListener(){
+                @Override
+                public void onCompletion(MediaPlayer mp) {
+                    mp.release();
+                }
+            });
         }
     });
 
@@ -103,6 +125,7 @@ txt.setText(ChosenFile);
 			@Override
 			public void onClick(View v) {
 				startRecord();
+                mp.start();
 				txt.setText("錄音中");
 			}
 		});		
@@ -112,9 +135,16 @@ txt.setText(ChosenFile);
 			public void onClick(View v) {
 				stopRecord();
 				txt.setText("結束了");
-				
+				mp.stop();
 			}
 		});
+        play.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v){
+                Log.e("mp.start()","now start()");
+                mp.start();
+            }
+        });
 }
 
 
@@ -338,5 +368,11 @@ channelConfiguration, EncodingBitRate, recBufSize);
 System.out.println("AudioRecord成功");
 }
 
+    @Override
+    protected void onDestroy() {
+        if(mp != null)
+            mp.release();
+        super.onDestroy();
+    }
 
 }
