@@ -102,10 +102,11 @@ protected void onCreate(Bundle savedInstanceState)
             ChosenFile = items.get(position);
             txt.setText(ChosenFile);
             try {
+
                 Log.e("mp.setDataSource ",filePath+"/"+ChosenFile);
                 mp.setDataSource(filePath+"/"+ChosenFile);
                 Log.e("now prepare  ",filePath+"/"+ChosenFile);
-                mp.prepare();
+
             }catch (IOException e) {
                 e.printStackTrace();
             }
@@ -124,6 +125,12 @@ protected void onCreate(Bundle savedInstanceState)
 			
 			@Override
 			public void onClick(View v) {
+
+                try{mp.prepare();}
+                catch (IOException e) {
+                    e.printStackTrace();
+                }
+
 				startRecord();
                 mp.start();
 				txt.setText("錄音中");
