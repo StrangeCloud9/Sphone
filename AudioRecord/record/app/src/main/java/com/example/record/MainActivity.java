@@ -31,7 +31,7 @@ public class MainActivity extends ActionBarActivity {
 private static final String AUDIO_RECORDER_FOLDER = "AudioRecorder2";    //默认录音文件的存储位置
 private static final String AUDIO_RECORDER_TEMP_FILE = "record_temp.raw";
 private static int frequency = 48000;
-private static int channelConfiguration = AudioFormat.CHANNEL_IN_MONO;//单声道
+private static int channelConfiguration = AudioFormat.CHANNEL_IN_STEREO;//单声道
 private static int EncodingBitRate = AudioFormat.ENCODING_PCM_16BIT;    //音频数据格式：脉冲编码调制（PCM）每个样品16位
 private AudioRecord audioRecord = null;
 private int recBufSize = 0;
@@ -283,7 +283,7 @@ private void copyWaveFile(String inFilename,String outFilename){
       long totalAudioLen = 0;
       long totalDataLen = totalAudioLen + 36;
       long longSampleRate = frequency;
-      int channels = 1;
+      int channels = 2;
       long byteRate = RECORDER_BPP * frequency * channels/8;
       
       byte[] data = new byte[recBufSize];

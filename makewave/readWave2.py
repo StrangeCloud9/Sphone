@@ -4,7 +4,7 @@ import pylab as pl
 import numpy as np
 
 # 打开WAV文档
-f = wave.open(r"speaker_single.wav", "rb")
+f = wave.open(r"10Hz_10s_Simple.wav", "rb")
 
 # 读取格式信息
 # (nchannels, sampwidth, framerate, nframes, comptype, compname)
@@ -18,6 +18,7 @@ f.close()
 #将波形数据转换为数组
 wave_data = np.fromstring(str_data, dtype=np.short)
 print (len(wave_data))
+#wave_data = wave_data[60000:65000]
 
 if(nchannels ==2):
 	wave_data.shape = -1, 2
@@ -27,7 +28,6 @@ else :
 	print ("its single channels")
 wave_data = wave_data.T
 time = np.arange(0, nframes) * (1.0 / framerate)
-print (wave_data)
 # 绘制波形
 if (nchannels ==2):
 	pl.subplot(211) 
@@ -38,6 +38,6 @@ if (nchannels ==2):
 	pl.show()
 else :
 	#pl.subplot(111) 
-	pl.plot(time, wave_data)
+	pl.plot(time[0:2000], wave_data[0:2000])
 	pl.xlabel("time (seconds)")
 	pl.show()
