@@ -4,7 +4,7 @@ import pylab as pl
 import numpy as np
 
 # 打开WAV文档
-f = wave.open(r"10Hz_10s_Simple.wav", "rb")
+f = wave.open(r"speaker_10hz.wav", "rb")
 
 # 读取格式信息
 # (nchannels, sampwidth, framerate, nframes, comptype, compname)
@@ -38,6 +38,6 @@ if (nchannels ==2):
 	pl.show()
 else :
 	#pl.subplot(111) 
-	pl.plot(time[0:2000], wave_data[0:2000])
+	pl.plot(time[80000:81000], wave_data[80000:81000])
 	pl.xlabel("time (seconds)")
 	pl.show()
